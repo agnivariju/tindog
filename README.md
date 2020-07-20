@@ -1,2 +1,2 @@
 # tindog
-A responsive frontend website created using Bootstrap framework   
+A responsive frontend dating website for dogs created using Bootstrap framework   
